@@ -1,6 +1,4 @@
 RESUME AUTOMATION
-a platform for students and job hunters
-
 Its a platform developed to analyze your resume and search jobs according to your resume and also give you a feedback that what are the skills reuired or you have to change in your resume to land a job.
 
 The Tech Stack
