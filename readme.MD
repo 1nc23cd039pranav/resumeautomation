@@ -3,8 +3,10 @@ Its a platform developed to analyze your resume and search jobs according to you
 
 The Tech Stack:
 To keep this robust and modern, we will use:
+
 Language: Python
 LLM: Google Gemini API.
+
 Parsing: PyPDF2 or pdfplumber (to read your resume)
 Document Generation: python-docx (to create the new resume)
 Orchestration: LangChain.
